@@ -1,0 +1,13 @@
+{
+  "Message":"Update Available",
+  "Manufacturer":"Infineon",
+  "ManufacturerId":"ABCD123",
+  "Product":"EFGH456",
+  "SerialNumber":"ABC213450001",
+  "Board":"APP_CY8CKIT_062S2_43012",
+  "Version":"1.0S0",
+  "Connection":"MQTT",
+  "Broker":"192.168.1.56",
+  "Port":"8884",
+  "UniqueTopicName":"replace"
+}
